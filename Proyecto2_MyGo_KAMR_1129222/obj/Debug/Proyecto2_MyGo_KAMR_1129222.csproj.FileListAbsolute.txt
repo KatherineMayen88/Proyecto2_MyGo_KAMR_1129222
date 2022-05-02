@@ -1,0 +1,14 @@
+C:\Users\kathe\source\repos\Proyecto2_MyGo_KAMR_1129222\Proyecto2_MyGo_KAMR_1129222\bin\Debug\Proyecto2_MyGo_KAMR_1129222.exe.config
+C:\Users\kathe\source\repos\Proyecto2_MyGo_KAMR_1129222\Proyecto2_MyGo_KAMR_1129222\bin\Debug\Proyecto2_MyGo_KAMR_1129222.exe
+C:\Users\kathe\source\repos\Proyecto2_MyGo_KAMR_1129222\Proyecto2_MyGo_KAMR_1129222\bin\Debug\Proyecto2_MyGo_KAMR_1129222.pdb
+C:\Users\kathe\source\repos\Proyecto2_MyGo_KAMR_1129222\Proyecto2_MyGo_KAMR_1129222\obj\Debug\Proyecto2_MyGo_KAMR_1129222.csproj.AssemblyReference.cache
+C:\Users\kathe\source\repos\Proyecto2_MyGo_KAMR_1129222\Proyecto2_MyGo_KAMR_1129222\obj\Debug\Proyecto2_MyGo_KAMR_1129222.csproj.SuggestedBindingRedirects.cache
+C:\Users\kathe\source\repos\Proyecto2_MyGo_KAMR_1129222\Proyecto2_MyGo_KAMR_1129222\obj\Debug\Proyecto2_MyGo_KAMR_1129222.Form1.resources
+C:\Users\kathe\source\repos\Proyecto2_MyGo_KAMR_1129222\Proyecto2_MyGo_KAMR_1129222\obj\Debug\Proyecto2_MyGo_KAMR_1129222.Properties.Resources.resources
+C:\Users\kathe\source\repos\Proyecto2_MyGo_KAMR_1129222\Proyecto2_MyGo_KAMR_1129222\obj\Debug\Proyecto2_MyGo_KAMR_1129222.csproj.GenerateResource.cache
+C:\Users\kathe\source\repos\Proyecto2_MyGo_KAMR_1129222\Proyecto2_MyGo_KAMR_1129222\obj\Debug\Proyecto2_MyGo_KAMR_1129222.csproj.CoreCompileInputs.cache
+C:\Users\kathe\source\repos\Proyecto2_MyGo_KAMR_1129222\Proyecto2_MyGo_KAMR_1129222\obj\Debug\Proyecto2_MyGo_KAMR_1129222.exe
+C:\Users\kathe\source\repos\Proyecto2_MyGo_KAMR_1129222\Proyecto2_MyGo_KAMR_1129222\obj\Debug\Proyecto2_MyGo_KAMR_1129222.pdb
+C:\Users\kathe\source\repos\Proyecto2_MyGo_KAMR_1129222\Proyecto2_MyGo_KAMR_1129222\obj\Debug\Proyecto2_MyGo_KAMR_1129222.Form2.resources
+C:\Users\kathe\source\repos\Proyecto2_MyGo_KAMR_1129222\Proyecto2_MyGo_KAMR_1129222\obj\Debug\Proyecto2_MyGo_KAMR_1129222.Form3.resources
+C:\Users\kathe\source\repos\Proyecto2_MyGo_KAMR_1129222\Proyecto2_MyGo_KAMR_1129222\obj\Debug\Proyecto2_MyGo_KAMR_1129222.Form4_tablero.resources

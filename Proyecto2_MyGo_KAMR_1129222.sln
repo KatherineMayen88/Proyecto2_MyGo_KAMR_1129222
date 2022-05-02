@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto2_MyGo_KAMR_1129222", "Proyecto2_MyGo_KAMR_1129222\Proyecto2_MyGo_KAMR_1129222.csproj", "{F8A4F898-4423-4DB6-BA42-13D6417471D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8A4F898-4423-4DB6-BA42-13D6417471D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8A4F898-4423-4DB6-BA42-13D6417471D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8A4F898-4423-4DB6-BA42-13D6417471D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8A4F898-4423-4DB6-BA42-13D6417471D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31AC20E2-A939-414D-94BB-F4093885B3C7}
+	EndGlobalSection
+EndGlobal
